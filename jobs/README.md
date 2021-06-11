@@ -4,6 +4,17 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Senior Product Manager @ [wappier](https://wappier.com/about-us)
+
+wappier is transforming the way app developers and marketers maximize consumer revenue by building the next generation AI-Based Marketing Technology that goes beyond marketing automation.
+
+We are currently looking for a talented Product Manager to help build a best-in-class Revenue Management platform. This role will be central in conceptualization, planning and implementation of both consumer-facing software experiences and internal tools in a fun, flexible environment.
+
+[Read more & Apply here](https://apply.workable.com/wappier/j/B9DFE6D0DD/)
+
+* PubDate: 11/06/2021
+
+
 ## Frontend Software Engineer (Angular) @ [ICS-FORTH](https://www.ics.forth.gr/hci/about-hci)
 
 The Human Computer Interaction (HCI) lab of ICS-FORTH is an internationally recognised centre of excellence with experience in user interface software technologies, design methodologies & software tools.
